@@ -1,0 +1,30 @@
+Test group 0:
+F1: 0.828375
+TP: 181 ; TN: 119 ; FP: 54 ; FN: 21 ;
+Test group 1:
+F1: 0.813559
+TP: 168 ; TN: 124 ; FP: 42 ; FN: 35 ;
+Test group 2:
+F1: 0.848921
+TP: 177 ; TN: 121 ; FP: 36 ; FN: 27 ;
+Test group 3:
+F1: 0.803738
+TP: 172 ; TN: 112 ; FP: 51 ; FN: 33 ;
+Test group 4:
+F1: 0.858491
+TP: 182 ; TN: 132 ; FP: 37 ; FN: 23 ;
+Test group 5:
+F1: 0.864486
+TP: 185 ; TN: 133 ; FP: 38 ; FN: 20 ;
+Test group 6:
+F1: 0.838407
+TP: 179 ; TN: 128 ; FP: 43 ; FN: 26 ;
+Test group 7:
+F1: 0.864608
+TP: 182 ; TN: 139 ; FP: 33 ; FN: 24 ;
+Test group 8:
+F1: 0.838554
+TP: 174 ; TN: 133 ; FP: 39 ; FN: 28 ;
+Test group 9:
+F1: 0.825553
+TP: 168 ; TN: 134 ; FP: 38 ; FN: 33 ;

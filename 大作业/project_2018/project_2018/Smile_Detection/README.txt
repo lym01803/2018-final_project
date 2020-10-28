@@ -1,0 +1,10 @@
+本目录下的report.txt文件是交叉验证的10组F1的报告文件
+
+其他report文件与大作业报告中的数据相对应
+
+smile_detection_final.py 是最终版本，要求在Windows环境下测试
+因鲁棒性不佳，故如果该版本不能正常运行，请运行smile_detection.py版本
+
+final版本会在10组交叉验证之后，利用训练好的SVM对自定义的图片进行分类
+
+另一个版本不含此内容
